@@ -939,6 +939,7 @@ ul.address {
 .footer-logo {
   display: inline-block;
   margin-bottom: 5px;
+    width: 200px;
 }
 
 #footer .social-icons {
