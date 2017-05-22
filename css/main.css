@@ -982,6 +982,14 @@ ul.address {
   background-color: #ff6b00;
 }
 
+@media screen and (max-width: 765px) {
+
+    .navbar-brand img {
+        height: 35px;
+    }
+
+}
+
 /*Presets*/
 
 
