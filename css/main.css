@@ -327,7 +327,7 @@ section {
 ********About CSS*******
 **************************/
 #about-us {
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/about-us.jpg);
   padding: 60px 0;
 }
 
@@ -588,7 +588,7 @@ section {
 **************************/
 #features {
   text-align: center;
-  background-image: url(../images/features-bg.jpg);
+  background-image: url(../images/accolates.jpg);
 }
 
 #features i {
